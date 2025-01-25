@@ -1,0 +1,9 @@
+# Backup dependences for module (auto_database_backup)
+# Docker: pip install dropbox && pip install pyncclient && pip install boto3 && pip install nextcloud-api-wrapper && pip install paramiko && pip install gdown
+dropbox ==12.0.2
+pyncclient == 0.7
+boto3== 1.35.52
+nextcloud-api-wrapper==  0.2.3
+paramiko== 3.5.0
+gdown== 5.2.0
+html2text == 2024.2.26
